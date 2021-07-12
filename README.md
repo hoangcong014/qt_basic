@@ -1,2 +1,4 @@
-# qt-basic
-Notes  những vấn đề liên quan đến Qt
+# Qt - Notes  những vấn đề trong quá trình phát triển ứng dụng bằng Qt IDE
+  
+## Build
+- "Dependant doesn not exist.": "Build" -> "Run qmake"
